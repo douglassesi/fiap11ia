@@ -1,0 +1,9 @@
+https://drive.google.com/drive/folders/1c-Etn8ooW3ZaJDkyRentypUd0QCLtyMf?usp=sharing
+
+
+Mongo:
+https://gist.github.com/leandrommendes/fcf31c562a91a6320977749a5b14b0c3
+
+Neo4j:
+https://gist.github.com/leandrommendes/91bd5a3c5eef13103bc37c4a9958fa2d
+
